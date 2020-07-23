@@ -94,6 +94,4 @@ public class Accidentes {
 				+ getRut_Id() + ", getDias_Perdidos()=" + getDias_Perdidos() + ", getNum_Trab()=" + getNum_Trab() + "]";
 	}
 	
-	
-
 }
